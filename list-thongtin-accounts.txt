@@ -1,0 +1,6 @@
+username     		pass      	role
+demo@gmail.com		1234567		1	
+demo1@gmail.com		1234567		1		
+demo2@gmail.com		1234567		1		
+demo3@gmail.com		1234567		2	
+demo4@gmail.com		1234567		2
